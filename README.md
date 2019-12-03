@@ -14,4 +14,6 @@ A python3 implementation of Error State Extended Kalman Filter (sensor fusion) f
 1. Open root folder in terminal.
 2. `python3 es_ekf.py`
 
+## Other
+- The repo is on Gitlab and has a mirror on Github.
 - The code was a part of a Coursera project assignment.
